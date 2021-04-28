@@ -1,0 +1,9 @@
+.\flashprg.o: FlashPrg.c
+.\flashprg.o: Z:\_Projects\milandr\myFLM_2\src\FlashOS.h
+.\flashprg.o: Z:\_Projects\milandr\myFLM_2\src\1636RR52.h
+.\flashprg.o: Z:\_Projects\milandr\myFLM_2\src\MDR1986VE8T.h
+.\flashprg.o: A:\Keil_v5\ARM\CMSIS\Include\core_cm4.h
+.\flashprg.o: A:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flashprg.o: A:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\flashprg.o: A:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\flashprg.o: A:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h

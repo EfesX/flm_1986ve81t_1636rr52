@@ -1,0 +1,1 @@
+.\flashstk.o: FlashStk.s

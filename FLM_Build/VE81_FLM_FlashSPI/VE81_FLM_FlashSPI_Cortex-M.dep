@@ -1,0 +1,21 @@
+Dependencies for Project 'VE81_FLM_FlashSPI', Target 'Cortex-M': (DO NOT MODIFY !)
+F (.\FlashPrg.c)(0x6086A75C)(-c --cpu Cortex-M4 --li -g -O2 --apcs=interwork --apcs /ropi/rwpi -I Z:\_Projects\milandr\myFLM_2\src-IA:\Keil_v5\ARM\RV31\INC-IA:\Keil_v5\ARM\CMSIS\Include-IA:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="524"-o .\flashprg.o --omf_browse .\flashprg.crf --depend .\flashprg.d)
+I (Z:\_Projects\milandr\myFLM_2\src\FlashOS.h)(0x60815A1F)
+I (Z:\_Projects\milandr\myFLM_2\src\1636RR52.h)(0x608280E6)
+I (Z:\_Projects\milandr\myFLM_2\src\MDR1986VE8T.h)(0x5F44EF50)
+I (A:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x608154CB)
+I (A:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BAD74)
+I (A:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D15CA)
+I (A:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D15CA)
+I (A:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x559D15CA)
+F (..\..\src\1636RR52.c)(0x608694D5)(-c --cpu Cortex-M4 --li -g -O2 --apcs=interwork --apcs /ropi/rwpi -I Z:\_Projects\milandr\myFLM_2\src-IA:\Keil_v5\ARM\RV31\INC-IA:\Keil_v5\ARM\CMSIS\Include-IA:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="524"-o .\1636rr52.o --omf_browse .\1636rr52.crf --depend .\1636rr52.d)
+I (..\..\src\1636RR52.h)(0x608280E6)
+I (..\..\src\MDR1986VE8T.h)(0x5F44EF50)
+I (A:\Keil_v5\ARM\CMSIS\Include\core_cm4.h)(0x608154CB)
+I (A:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BAD74)
+I (A:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D15CA)
+I (A:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D15CA)
+I (A:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h)(0x559D15CA)
+F (.\FlashDev.c)(0x60869FC1)(-c --cpu Cortex-M4 --li -g -O2 --apcs=interwork --apcs /ropi/rwpi -I Z:\_Projects\milandr\myFLM_2\src-IA:\Keil_v5\ARM\RV31\INC-IA:\Keil_v5\ARM\CMSIS\Include-IA:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="524"-o .\flashdev.o --omf_browse .\flashdev.crf --depend .\flashdev.d)
+I (Z:\_Projects\milandr\myFLM_2\src\FlashOS.h)(0x60815A1F)
+F (.\FlashStk.s)(0x582DAB84)(--cpu Cortex-M4 --li -g --apcs=interwork --apcs /ropi/rwpi -IA:\Keil_v5\ARM\RV31\INC-IA:\Keil_v5\ARM\CMSIS\Include-IA:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 524"-o .\flashstk.o --depend .\flashstk.d)

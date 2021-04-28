@@ -1,0 +1,9 @@
+--cpu=Cortex-M4 --fpu=SoftVFP
+".\flashprg.o"
+".\1636rr52.o"
+".\flashdev.o"
+".\flashstk.o"
+--strict --scatter ".\Target.lin"
+--diag_suppress L6305 --summary_stderr --info summarysizes --map --load_addr_map_info --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\NEW_DEVICE.map" -o .\NEW_DEVICE.axf
